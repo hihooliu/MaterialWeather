@@ -4,6 +4,6 @@
     <list>
         <mapping class="com.hihoo.materialweather.db.Province"/>
         <mapping class="com.hihoo.materialweather.db.City"/>
-        <mapping class="com.hihoo.materialweather.db.Country"/>
+        <mapping class="com.hihoo.materialweather.db.County"/>
     </list>
 </litepal>
