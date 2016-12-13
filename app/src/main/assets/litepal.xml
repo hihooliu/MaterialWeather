@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="material_weather"/>
+    <version values="1"/>
+    <list>
+        <mapping class="com.hihoo.materialweather.db.Province"/>
+        <mapping class="com.hihoo.materialweather.db.City"/>
+        <mapping class="com.hihoo.materialweather.db.Country"/>
+    </list>
+</litepal>
